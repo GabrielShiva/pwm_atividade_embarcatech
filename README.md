@@ -1,6 +1,6 @@
 # Controle de Servo Motor via PWM com Raspberry Pi Pico
 
-Este projeto faz parte do capítulo 7 do curso **Embarcatech Unity 4**, onde exploramos o controle de um servo motor utilizando PWM (Modulação por Largura de Pulso) com a placa **Raspberry Pi Pico**. O código foi desenvolvido em C e utiliza a biblioteca `pico-sdk` para configurar e controlar o servo motor.
+Este projeto faz parte do capítulo 7 do curso **Embarcatech unidade 4**, onde exploramos o controle de um servo motor utilizando PWM com a placa **Raspberry Pi Pico**.
 
 ## Descrição do Projeto
 
@@ -9,8 +9,8 @@ O objetivo deste projeto é demonstrar como controlar um servo motor utilizando 
 ## Configuração do Hardware
 
 - **Raspberry Pi Pico**: Microcontrolador utilizado para gerar os sinais PWM.
-- **Servo Motor**: Conectado ao pino GPIO 12 (ou 22, conforme definido no código).
-- **LED Azul (opcional)**: Conectado ao pino GPIO 12 para testes visuais.
+- **Servo Motor**: Conectado ao pino GPIO 22.
+- **LED Azul (opcional)**: Conectado ao pino GPIO 12 para teste na placa BITDOGLAB.
 
 ## Configuração do Software
 
