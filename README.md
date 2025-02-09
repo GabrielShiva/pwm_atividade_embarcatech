@@ -47,4 +47,4 @@ git clone https://github.com/GabrielShiva/pwm_atividade_embarcatech.git
 
 ## Vídeo de Apresentação
 
-Assita ao vídeo com a apresentação do projeto (clicando aqui)[#].
+Assita ao vídeo com a apresentação do projeto (clicando aqui)[https://youtu.be/MyNR6LphnCY].
